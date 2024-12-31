@@ -35,7 +35,7 @@ A simple password manager built with Python and Tkinter. This tool allows you to
    ```
 3.  Run the script:
    ```bash
-   python main.py
+   python main .py
    ```
 
 ---
